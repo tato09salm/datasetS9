@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib
+numpy
+scikit-learn
+
+# Visualización
+matplotlib
+seaborn
+plotly
+
+# Opcional (para compatibilidad con gráficas interactivas y warnings)
+altair
